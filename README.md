@@ -1,6 +1,6 @@
 # Layout Sample Project
 
-### [Site link](https://gromcode.github.io/layout-sample-project/)
+### [Site link](https://github.com/alexmal5/layout-sample-project)
 
 Layout supports mobile (up-to-320) and desktop (up-to-1400) versions
 
